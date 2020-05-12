@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"incremental": true,
+		"target": "ES5",
+		"module": "CommonJS",
+		"skipLibCheck": true,
+		"resolveJsonModule": true,
+		"outDir": "lib"
+	},
+	"include": [
+		"src"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"name": "memorize.ai-algorithm",
+	"dependencies": {
+		"@tensorflow/tfjs-node": "^1.7.4"
+	},
+	"private": true
+}
