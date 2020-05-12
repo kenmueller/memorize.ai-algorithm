@@ -1,4 +1,4 @@
-# memorize.ai Algorith
+# memorize.ai Algorithm
 
 > A revision to the current algorithm using TensorFlow V2
 
